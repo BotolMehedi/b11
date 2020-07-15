@@ -17,7 +17,7 @@
       A New Facebook Account 11 DIGIT Passwords Cracker Tool For Termux Users.
 </p>
 
-## 馃攳 ***About B11***:
+## ***About B11***:
 
 B11 is a python based script. You can use this tool for crack facebook users passwords. This tool works on both rooted Android device and Non-rooted Android device.
 
@@ -36,7 +36,7 @@ B11 is a python based script. You can use this tool for crack facebook users pas
 
 ### Note:- Don't try to edit or modify this tool.
 
-## 馃敆 ***Check this***
+## ***Check this***
 
 ### Subscribe our channel on youtube:
 https://www.youtube.com/MasterTrick1
@@ -44,7 +44,7 @@ https://www.youtube.com/MasterTrick1
 ### Chekout our webite:
 https://www.mastertrick.design
 
-## 馃懃 ***Join***
+## ***Join***
 
 ### Facebook group: 
 https://www.facebook.com/groups/231747098048450
@@ -61,6 +61,6 @@ https://www.instagram.com/MehtanOfficial
 ### My GitHub ID link:
 https://www.github.com/BotolMehedi
 
-### 馃摙 Warning
+### Warning
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
