@@ -36,30 +36,16 @@ B11 is a python based script. You can use this tool for crack facebook users pas
 
 ### Note:- Don't try to edit or modify this tool.
 
-## ***Check this***
+## ***Follow Me***
 
-### Subscribe our channel on youtube:
-https://www.youtube.com/MasterTrick1
-
-### Chekout our webite:
-https://www.mastertrick.design
-
-## ***Join***
-
-### Facebook group: 
-https://www.facebook.com/groups/231747098048450
-
-### Telegram channel:
-https://t.me/mastertrick2
-
-### Facebook page:
-https://www.facebook.com/TeamVVirus
-
-### Instagram: 
-https://www.instagram.com/MehtanOfficial
-
-### My GitHub ID link:
-https://www.github.com/BotolMehedi
+* Youtube : 'https://www.youtube.com/MasterTrick1'
+* Website : 'https://www.mastertrick.design'
+* Page : https://www.facebook.com/TeamVVirus
+* Group : 'https://www.facebook.com/groups/231747098048450'
+* Telegram : 'https://t.me/mastertrick2'
+* Instagram : 'https://www.instagram.com/MehtanOfficial'
+* Twitter : 'https://www.twitter.com/botolbaba
+* GitHub : 'https://www.github.com/BotolMehedi'
 
 ### Warning
 
