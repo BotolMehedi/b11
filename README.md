@@ -26,8 +26,10 @@ B11 is a python based script. You can use this tool for crack facebook users pas
 * `git clone https://github.com/botolmehedi/b11`
 * `pip2 install requests`
 * `pip2 install mechanize`
-* `ls && cd b11 && ls`
-* `python2 b11.py`
+
+## Tools Run :
+* ls && cd b11 && ls
+* python2 b11.py
 
 * TOOL USER : (knock me on facebook)
 * TOOL PASS : (knock me on facebook)
