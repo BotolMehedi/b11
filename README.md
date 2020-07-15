@@ -34,8 +34,6 @@ B11 is a python based script. You can use this tool for crack facebook users pas
 * TOOL USER : (knock me on facebook)
 * TOOL PASS : (knock me on facebook)
 
-### Note:- Don't try to edit or modify this tool.
-
 ## ***Follow Me***
 
 * Youtube : https://www.youtube.com/MasterTrick1
@@ -49,4 +47,4 @@ B11 is a python based script. You can use this tool for crack facebook users pas
 
 ### Warning
 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
