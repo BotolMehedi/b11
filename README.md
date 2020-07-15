@@ -22,10 +22,10 @@
 B11 is a python based script. You can use this tool for crack facebook users passwords. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## Installation :
-* `pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install git && pkg install pip && pkg install pip2`
-* `git clone https://github.com/botolmehedi/b11`
-* `pip2 install requests`
-* `pip2 install mechanize`
+* pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install git && pkg install pip && pkg install pip2
+* git clone https://github.com/botolmehedi/b11
+* pip2 install requests
+* pip2 install mechanize
 
 ## Tools Run :
 * ls && cd b11 && ls
@@ -34,7 +34,7 @@ B11 is a python based script. You can use this tool for crack facebook users pas
 * TOOL USER : (knock me on facebook)
 * TOOL PASS : (knock me on facebook)
 
-* Note:- Don't try to edit or modify this tool.
+# Note:- Don't try to edit or modify this tool.
 
 ## 馃敆 ***Check this***
 
