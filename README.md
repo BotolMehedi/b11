@@ -28,10 +28,10 @@ B11 is a python based script. You can use this tool for crack facebook users pas
 * `pip2 install mechanize`
 * `ls && cd b11 && ls`
 * `python2 b11.py`
-...
+
 * TOOL USER : (knock me on facebook)
 * TOOL PASS : (knock me on facebook)
-....
+
 * Note:- Don't try to edit or modify this tool.
 
 ## 馃敆 ***Check this***
